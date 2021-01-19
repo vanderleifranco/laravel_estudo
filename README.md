@@ -1,3 +1,3 @@
-# Travellist - Laravel Demo App
+# Travellist - Laravel 
 
-This is a Laravel 6 demo application to support our Laravel guides.
+This is a Laravel 8 demo application to support our Laravel guides.
